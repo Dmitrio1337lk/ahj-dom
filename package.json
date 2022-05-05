@@ -1,0 +1,21 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "main": "webpack.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitrio1337lk/ahj-dom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmitrio1337lk/ahj-dom/issues"
+  },
+  "homepage": "https://github.com/Dmitrio1337lk/ahj-dom#readme",
+  "devDependencies": {
+    "webpack": "^5.72.0"
+  }
+}
